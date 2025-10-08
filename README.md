@@ -1,4 +1,5 @@
 # 🎀 Kawaii_Calci ✨
+![KawaiiCalc Screenshot](screenshot.jpg)
 
 A soft baby-pink aesthetic calculator app made with Python 🧁💗  
 Created with Tkinter — simple, minimal, and totally adorable 💫  
